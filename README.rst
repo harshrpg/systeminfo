@@ -36,7 +36,7 @@ To use this application simply follow the following steps:
 
 1. Install ``systeminfo`` by executing the following command::
         
-        pip install git+https://github.com/harshrpg/COMP30670_CookieCutter.git
+        pip install git+https://github.com/harshrpg/systeminfo.git
 
 2. Enter python terminal by executing ``python``
 3. Use this package by importing the module::
